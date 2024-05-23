@@ -1,0 +1,7 @@
+# For more info on HTTP files go to https://aka.ms/vs/httpfile
+@Series_HostAddress = http://localhost:5168
+
+GET {{Series_HostAddress}}/series/
+Accept: application/json
+
+###
