@@ -1,0 +1,14 @@
+D:\1\documents\Web ASP\AdaptWeb1\AdaptWeb1\bin\Debug\net7.0\AdaptWeb1.exe
+D:\1\documents\Web ASP\AdaptWeb1\AdaptWeb1\bin\Debug\net7.0\AdaptWeb1.deps.json
+D:\1\documents\Web ASP\AdaptWeb1\AdaptWeb1\bin\Debug\net7.0\AdaptWeb1.runtimeconfig.json
+D:\1\documents\Web ASP\AdaptWeb1\AdaptWeb1\bin\Debug\net7.0\AdaptWeb1.dll
+D:\1\documents\Web ASP\AdaptWeb1\AdaptWeb1\bin\Debug\net7.0\AdaptWeb1.pdb
+D:\1\documents\Web ASP\AdaptWeb1\AdaptWeb1\obj\Debug\net7.0\AdaptWeb1.GeneratedMSBuildEditorConfig.editorconfig
+D:\1\documents\Web ASP\AdaptWeb1\AdaptWeb1\obj\Debug\net7.0\AdaptWeb1.AssemblyInfoInputs.cache
+D:\1\documents\Web ASP\AdaptWeb1\AdaptWeb1\obj\Debug\net7.0\AdaptWeb1.AssemblyInfo.cs
+D:\1\documents\Web ASP\AdaptWeb1\AdaptWeb1\obj\Debug\net7.0\AdaptWeb1.csproj.CoreCompileInputs.cache
+D:\1\documents\Web ASP\AdaptWeb1\AdaptWeb1\obj\Debug\net7.0\AdaptWeb1.dll
+D:\1\documents\Web ASP\AdaptWeb1\AdaptWeb1\obj\Debug\net7.0\refint\AdaptWeb1.dll
+D:\1\documents\Web ASP\AdaptWeb1\AdaptWeb1\obj\Debug\net7.0\AdaptWeb1.pdb
+D:\1\documents\Web ASP\AdaptWeb1\AdaptWeb1\obj\Debug\net7.0\AdaptWeb1.genruntimeconfig.cache
+D:\1\documents\Web ASP\AdaptWeb1\AdaptWeb1\obj\Debug\net7.0\ref\AdaptWeb1.dll
