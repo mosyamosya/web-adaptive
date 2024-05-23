@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jAi6kiTUzLOzjeVf0ccdZlDLmXwiz0qS5qPGLtjCcPmbbB67xf+pkx1e1G10bzYJsUZpyiGSD5Se8dO9kGVmzg==",
+  "success": true,
+  "projectFilePath": "D:\\1\\documents\\Web ASP\\adaptweb4\\adaptweb4\\adaptweb4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
