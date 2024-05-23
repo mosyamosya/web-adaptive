@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "adaptweb3/1.0.0": {
+        "runtime": {
+          "adaptweb3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "adaptweb3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
